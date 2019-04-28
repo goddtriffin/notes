@@ -37,6 +37,17 @@
   * display workout based on muscle group(s)
   * display health stats
   * connected straight to my personal website via API
+* **VogueBot**
+  * Reddit bot
+  * patrols fashion subreddits
+  * “Automating Reddit fashion”
+  * creates best-of posts
+    * weekly, monthly
+    * ranking based on post/comment Reddit karma
+    * generates Imgur album
+      * each picture is an outfit
+      * link to user profile who posted
+      * link to post/comment where it was found
 * **"Brain"**
   * programming language
   * compiles down to BrainFuck
@@ -109,3 +120,9 @@
   * put natural linen fabric on it
     * https://www.fabric.com/buy/ff-357/kaufman-antwerp-linen-natural
   * No painting, just the linen
+  
+### Project lists
+
+* https://github.com/karan/Projects
+* https://github.com/danistefanovic/build-your-own-x
+* https://github.com/tastejs/awesome-app-ideas
