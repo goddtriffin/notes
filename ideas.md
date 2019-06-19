@@ -57,6 +57,22 @@
     * Cinoop
       * https://github.com/CTurt/Cinoop
       * https://news.ycombinator.com/item?id=17496859
+* Physics-based, motion-disgruntled simulation
+  * projector beams physics-based simulation on wall
+  * motion sensor pointed at position in front of wall
+  * the more motion picked up by the sensor, the more 'disgruntled' the simulation gets
+* Clock made of clocks
+  * a single, large 24h digital clock made out of lots of tiny spinning analog clocks
+  * the analog clock hands would spin aimlessly for a tiny bit before finally landing on the final position that, as a swarm, makes up the larger meta digital clock
+  * frontend web display
+  * options
+    * 12h vs 24h setting
+    * theme setting
+      * white background with black clock hands
+      * black background with white clock hands
+  * "Pendulous" (?)
+  * inspiration
+    * https://clockclock.com/
 
 ### Games
 
@@ -120,10 +136,6 @@
   * put natural linen fabric on it
     * https://www.fabric.com/buy/ff-357/kaufman-antwerp-linen-natural
   * No painting, just the linen
-* Physics-based, motion-disgruntled simulation
-  * projector beams physics-based simulation on wall
-  * motion sensor pointed at position in front of wall
-  * the more movement picked up by the sensor, the more 'disgruntled' the simulation gets
   
 ### Project lists
 
