@@ -120,6 +120,10 @@
   * put natural linen fabric on it
     * https://www.fabric.com/buy/ff-357/kaufman-antwerp-linen-natural
   * No painting, just the linen
+* Physics-based, motion-disgruntled simulation
+  * projector beams physics-based simulation on wall
+  * motion sensor pointed at position in front of wall
+  * the more movement picked up by the sensor, the more 'disgruntled' the simulation gets
   
 ### Project lists
 
