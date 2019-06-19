@@ -31,6 +31,21 @@
 * **De Brevitate Vitae (On the Shortness of Life)** Seneca the Younger
 * **21 Lessons for the 21st Century** Yuval Noah Harari
 * **Principles** Ray Dalio
+* **The Joy of Cooking** Irma S. Rombauer
+* **And Then There Were None** Agatha Christie
+* **Matilda** Roald Dahl
+* **Good Omens** Neil Gaiman, Terry Pratchett
+* **American Gods** Neil Gaiman
+* **Dune** Frank Herbert
+* **The Lord of the Rings** J. R. R. Tolkien
+* **Animal Farm** George Orwell
+* **Brave New World** Aldous Huxley
+* **1984** George Orwell
+* **The Martian** Andy Weir
+* **Go the Fuck to Sleep** Adam Mansbach (Audiobook: Samual L. Jackson)
+* **The Perks of Being a Wallflower** Stephen Chbosky
+* [**Ender's Game series**](https://www.wikiwand.com/en/Ender%27s_Game_(series)) Orson Scott Card
+
 
 ## Finished
 * **Ender's Game** Orson Scott Card
