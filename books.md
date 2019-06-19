@@ -27,6 +27,10 @@
 * **Why We Sleep** Matthew Walker
 * **This Is Water** David Foster Wallace
 * **Red Rising** Pierce Brown
+* **Someone Who Will Love You in All Your Damaged Glory: Stories** Raphael Bob-Waksberg
+* **De Brevitate Vitae (On the Shortness of Life)** Seneca the Younger
+* **21 Lessons for the 21st Century** Yuval Noah Harari
+* **Principles** Ray Dalio
 
 ## Finished
 * **Ender's Game** Orson Scott Card
