@@ -41,3 +41,12 @@
 * **You Make My Dreams** Hall & Oates
 * **Fall In Philadelphia** Hall & Oates
 * **Loving is Easy** Rex Orange County
+* **Dancin** Emily Bear
+* **The Chain** Fleetwood Mac
+* **Are You Gonna Be My Girl** Jet
+* **Rocket Man** Elton John
+* **Gamblefalls** DJ Cumberbund
+* **Rosanna** Toto / Weezer
+* **What's Going On (studio album)** Marvin Gaye (bass guitar)
+* **Lisztomania** Phoenix (/ Pomplamoose)
+* **Dancing's Not A Crime** Pomplamoose
