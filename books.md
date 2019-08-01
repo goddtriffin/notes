@@ -45,7 +45,8 @@
 * **Go the Fuck to Sleep** Adam Mansbach (Audiobook: Samual L. Jackson)
 * **The Perks of Being a Wallflower** Stephen Chbosky
 * [**Ender's Game series**](https://www.wikiwand.com/en/Ender%27s_Game_(series)) Orson Scott Card
-
+* **The Uninhabitable Earth** David Wallace-Wells
+* [**The Expanse series**](https://www.wikiwand.com/en/The_Expanse_(novel_series)) James S. A. Corey
 
 ## Finished
 * **Ender's Game** Orson Scott Card
