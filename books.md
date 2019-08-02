@@ -47,6 +47,15 @@
 * [**Ender's Game series**](https://www.wikiwand.com/en/Ender%27s_Game_(series)) Orson Scott Card
 * **The Uninhabitable Earth** David Wallace-Wells
 * [**The Expanse series**](https://www.wikiwand.com/en/The_Expanse_(novel_series)) James S. A. Corey
+* **On computable numbers with an application to the Entscheidungsproblem** Alan Turing
+* **An unsolvable problem of elementary number theory** Alonzo Church
+* **The Mikado Method** Ola Ellnestam, Danielle Brolund
+* **Working Effectively with Legacy Code** Michael Feathers
+* **The Cathedral and the Bazaar** Eric S. Raymond
+* **Zen in the Art of Writing** Ray Bradburry
+* **Why We Sleep** Matthew Walker
+* **Dreamland: Adventures in the Strange Science of Sleep** David K. Randall
+* **Sleep Smarter: 21 Essential Strategies to Sleep Your Way to a Better Body, Better Health, and Bigger Success** Shawn Stevenson
 
 ## Finished
 * **Ender's Game** Orson Scott Card
