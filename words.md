@@ -1,0 +1,16 @@
+# Words
+
+- 'Positive Illusions'
+- 'Dunning-Kruger effect'
+- 'negativity bias'
+- 'tacit' / 'tacit knowledge'
+- 'Polanyi's Paradox'
+- 'Moravec's Paradox'
+- 'apocryphal'
+- 'corporeal'
+- 'toil'
+- 'slog'
+- 'Western mythos' / 'go west young man'
+- 'endogenous'
+- 'Egg of Columbus'
+- 'abbess'
