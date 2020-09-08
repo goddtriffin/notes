@@ -10,3 +10,7 @@
 - Atlanta
 - Community
 - Euphoria
+- Are You The One? (the season with all bisexuals)
+- Space Dandy
+- Mob Psycho
+- Good Omens
