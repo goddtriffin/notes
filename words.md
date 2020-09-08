@@ -17,3 +17,8 @@
 - 'Peter principle' / 'Peter's plateau'
 - 'stratagem'
 - 'spaced repetition'
+- 'Pareto principle'
+- 'Pedagogy'
+- 'Absurdism'
+- 'autodidact'
+- 'technicolor dream-notes'
