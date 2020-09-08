@@ -56,6 +56,28 @@
 * **Why We Sleep** Matthew Walker
 * **Dreamland: Adventures in the Strange Science of Sleep** David K. Randall
 * **Sleep Smarter: 21 Essential Strategies to Sleep Your Way to a Better Body, Better Health, and Bigger Success** Shawn Stevenson
+* **Sapiens: A brief history of humankind** Yuval Noah Harari
+* **Last and First Men: A Story of the Near and Far Future** Olaf Stapledon
+* **Circe** Madeline Miller
+* **Good Omens** Neil Gaiman, Terry Pratchett
+* **American Gods** Neil Gaiman
+* **Infinite Jest** David Foster Wallace
+* **Memories of the Future** Siri Hustvedt
+* **The Martian** Andy Weir
+* **[**The Red Rising Series**](https://en.wikipedia.org/wiki/Red_Rising) Pierce Brown
+* **Refactoring UI** Adam Watham, Steve Schoger
+* **The Mythical Man-Month** Fred Brooks
+* **A Philosophy of Software Design** John Ousterhout
+* **The Elements of Style** William Strunk Jr.
+* **The 22 Immutable Laws of Marketing** Al Ries, Jack Trout
+* **Writing Solid Code** Steve Maguire
+* **Don't Just Roll the Dice - A Usefully Short Guide to Software Pricing** Neil Davidson
+* **Programming Pearls** Jon Bentley
+* **Diaspora** Greg Egan
+* **Permutation City** Greg Egan
+* [**Orthogonal series**](https://en.wikipedia.org/wiki/Orthogonal_(series)) Greg Egan
+* **Schild's Ladder** Greg Egan
+* [**Avatar: The Last Airbender comics**](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender_(comics)) N/A
 
 ## Finished
 * **Ender's Game** Orson Scott Card
