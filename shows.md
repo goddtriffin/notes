@@ -14,3 +14,8 @@
 - Space Dandy
 - Mob Psycho
 - Good Omens
+- Cowboy Bebop
+- Attack on Titan
+- Adventure Time
+- My Hero Academia
+- Gravity Falls
