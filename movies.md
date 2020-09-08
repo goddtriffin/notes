@@ -33,4 +33,13 @@
 * The Godfather
 * REC (Spanish, zombies)
 * Colossus: The Forbin Project
-* Super Troopers 
+* Super Troopers
+* Mary and Max
+* Promare
+* Silence
+* Helvetica
+* Paprika
+* Irreversible
+* Climax
+* Coherence
+* Manon des Sources
