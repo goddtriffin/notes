@@ -50,3 +50,13 @@
 * **What's Going On (studio album)** Marvin Gaye (bass guitar)
 * **Lisztomania** Phoenix (/ Pomplamoose)
 * **Dancing's Not A Crime** Pomplamoose
+* **Something About Us** Pomplamoose
+* **Apartment** Young the Giant
+* **While You Fade Away** The Happy Fit
+* **Charlotte** The Kite Machine
+* **Threshold** Sex Bob-Omb
+* **Can You Hear Me** Dan Croll
+* **Ace in the Hole** Saint Motel
+* **Intuition** Backseat Lovers
+* **Call Me Back** The Strokes
+* **Bad Dream** The Jungle Giants
