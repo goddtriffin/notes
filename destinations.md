@@ -7,6 +7,8 @@
   - Puy du Fou
 - Iceland
   - Vestrahorn
+- Italy
+  - Dolomites
 - Montreal
   - La Maisonnée (ask for a Lassonde)
 - Norway
@@ -15,6 +17,10 @@
   - Kleine Scheidegg
   - Grindelwald
   - Canton Bern
+  - Lauterbrunnen
+  - Interlaken
+- Sri Lanka
+  - Ambuluwawa Tower
 - Thailand
   - Koh Lipe
 - West Indies
