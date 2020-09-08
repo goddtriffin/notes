@@ -213,3 +213,5 @@
 * "I have a favorite game I play with Christian people, I’ll read them the tenets and ask if they find them to at least be reasonable. They typically agree. Then I tell them that the tenets are from the Satanic Temple. After they shit a few bricks and call me the antichrist or whatever I explain that Satan was chosen as a symbol to get a rise of out Christians who refuse to actually learn anything about other religions and choose to blindly hate them."
 * "Never use a dependency that you could replace with an afternoon of programming."
 * "Anything I do, I do it the most. It just so happens I'm rewarded for being extreme."
+* "You don’t become interesting by copying interesting people. You become interesting by following your own interests, going deeper down the rabbit hole than anyone else, and surfacing something new for the rest of us."
+* "Consumers don't care how it works, it just has to be better than the solution before it. Appealing to how things ought to be moralistically doesn't work (for the vast majority of consumers). They just don't care, they want a solution to their problem."
