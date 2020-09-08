@@ -79,6 +79,84 @@
 - **A\* path finding algorithm visualization**
 - **run-time as food-calorie visualization**
   - displays how many minutes of running it would take to work off the amount of calories you just ate
+- **font editing webapp**
+  - bring the ease of the online image editing web/apps (meme making, image cropping, etc) to font creation/editing
+  - "typography as a service"
+  - "thefontforge.com"
+  - "typographyforge.com"
+- **barcode generator**
+  - generate literally every single kind of barcode
+  - module width is 2px, default height maybe 100px
+  - types
+    - UPC(-A)
+    - EAN(-13)
+    - pharmacode
+    - QR
+    - code(-39, -128)
+- **personal dashboard**
+  - local weather
+  - local air quality
+  - time
+  - geolocation
+  - quote of the day
+  - word of the day
+  - reminders (day, unbounded)
+- **analytics dashboard**
+  - how many hits a page gets over time
+- **service status dashboard**
+  - displays uptime of multiple services
+  - status for past year (broken down by days)
+  - status for all past years (broken down by years)
+  - displays percentage (%) of uptime
+  - display sum of downtime
+  - display "last updated"
+  - styled similar to GitHub contributions chart, or Stripe's status chart
+- **podcast hoster**
+  - hosts podcasts
+- **factorio belt balancer analyzer**
+  - load by blueprint string
+  - load by blueprint string file
+  - test all throughput combinations where exactly 2 inputs/outputs are used
+- **Factorio toolbox web/app/bot**
+  - create blueprint encoder/decoder library
+  - create belt balancer analyzer tool
+  - create blueprint visualizer tool
+  - create recipe lookup tool
+- **Go(lang) GC analyzer**
+  - analyze GC data in useful charts
+- **Rocket League Stats BakkesMod plugin**
+  - plugin sends all sorts of data to central server
+  - e.g.
+    - what cars people are using
+    - who wears what items on their car
+    - where does the ball get hit on the pitch
+      - by cars, by the pitch itself, etc
+- **Risk of Rain 2 Stats mod**
+  - mod sends all sorts of data to central server
+  - e.g.
+    - what characters people use
+    - what items people randomly pick up
+    - what items people choose to pick up
+- **Rocket League Handbook**
+  - "rlhandbook.com"
+  - skills/mechanics
+    - personal abilities you're going to have to sink time into
+  - strategies
+    - basic strats for 1's, 2's, 3's, game modes, etc
+  - rules
+    - define rules the community generally follow
+    - e.g.
+      - Rule 0: Keep the ball up off the ground after the time-clock hits zero no matter what your score is
+      - Rule 1: if you run into another player and get locked to them, you must stay locked to them
+        - specify the sub-rules (1.a, 1.b, 1.c, etc) for the different ways you can lock with another car
+  - glossary
+    - look up any Rocket League related term
+- **accented characters browser extension**
+  - easy way to let the user type an accented character without remembering character codes
+  - hold down the letter in question (a/e/i/o/u/etc) and a popup is displayed with the accented options
+  - select an accent option that is displayed in the popup by typing a number
+  - MacOS already has this feature, so mimic that
+    - make sure the browser plugin is default:off for MacOS
 
 ### Games
 
@@ -177,9 +255,3 @@
 - **constructed language**
   - https://www.wikiwand.com/en/Constructed_language
   - create my own language from scratch
-  
-### Project lists
-
-- https://github.com/karan/Projects
-- https://github.com/danistefanovic/build-your-own-x
-- https://github.com/tastejs/awesome-app-ideas
