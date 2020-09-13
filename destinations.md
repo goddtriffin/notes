@@ -5,6 +5,8 @@
   - Split
 - France
   - Puy du Fou
+- Germany
+  - Freiburg im Breisgau
 - Iceland
   - Vestrahorn
 - Italy
