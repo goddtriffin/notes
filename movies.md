@@ -43,3 +43,6 @@
 * Climax
 * Coherence
 * Manon des Sources
+* The Florida Project
+* The Descent
+* Time Trap
