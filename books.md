@@ -78,6 +78,7 @@
 * [**Orthogonal series**](https://en.wikipedia.org/wiki/Orthogonal_(series)) Greg Egan
 * **Schild's Ladder** Greg Egan
 * [**Avatar: The Last Airbender comics**](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender_(comics)) N/A
+* [**The Story of Civilization series**](https://en.wikipedia.org/wiki/The_Story_of_Civilization) Will Durant, Ariel Durant
 
 ## Finished
 * **Ender's Game** Orson Scott Card
