@@ -215,3 +215,4 @@
 * "Anything I do, I do it the most. It just so happens I'm rewarded for being extreme."
 * "You don’t become interesting by copying interesting people. You become interesting by following your own interests, going deeper down the rabbit hole than anyone else, and surfacing something new for the rest of us."
 * "Consumers don't care how it works, it just has to be better than the solution before it. Appealing to how things ought to be moralistically doesn't work (for the vast majority of consumers). They just don't care, they want a solution to their problem."
+* "The cost of perfection is infinite."
