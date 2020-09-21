@@ -1,9 +1,15 @@
 # Destinations
 
+- Australia
+  - Sydney
+- Canada
+  - Vancouver
 - Christmas Island
 - Croatia
   - Split
+- Cyprus
 - France
+  - Marseille
   - Puy du Fou
 - Germany
   - Freiburg im Breisgau
@@ -11,6 +17,7 @@
   - Vestrahorn
 - Italy
   - Dolomites
+- Mauritius
 - Montreal
   - La Maisonnée (ask for a Lassonde)
 - Norway
