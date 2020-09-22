@@ -217,3 +217,4 @@
 * "Consumers don't care how it works, it just has to be better than the solution before it. Appealing to how things ought to be moralistically doesn't work (for the vast majority of consumers). They just don't care, they want a solution to their problem."
 * "The cost of perfection is infinite."
 * "If I had more time, I would have written a shorter letter."
+* "To avoid criticism say nothing, do nothing, be nothing."
