@@ -218,3 +218,5 @@
 * "The cost of perfection is infinite."
 * "If I had more time, I would have written a shorter letter."
 * "To avoid criticism say nothing, do nothing, be nothing."
+* "Nobody should lament getting one year older, another grey hair or a wrinkle. Instead, be pleased that you've made it."
+* "Getting old is a privilege that not everyone has the opportunity to experience."
